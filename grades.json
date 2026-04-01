@@ -3,7 +3,7 @@
     "Year": "1st Year",
     "Subject": "Introduction to Programming",
     "Numeric Grade": 17,
-    "ECTS Grade": "-"
+    "ECTS Grade": "B"
   },
   {
     "Year": "1st Year",
@@ -21,13 +21,13 @@
     "Year": "1st Year",
     "Subject": "Management and Information Systems in Organizations",
     "Numeric Grade": 11,
-    "ECTS Grade": "-"
+    "ECTS Grade": "E"
   },
   {
     "Year": "1st Year",
-    "Subject": "Personal Image Management",
+    "Subject": "Personal Branding",
     "Numeric Grade": 15,
-    "ECTS Grade": "-"
+    "ECTS Grade": "D"
   },
   {
     "Year": "1st Year",
@@ -51,7 +51,7 @@
     "Year": "1st Year",
     "Subject": "Algorithms and Data Structures",
     "Numeric Grade": 13,
-    "ECTS Grade": "-"
+    "ECTS Grade": "D"
   },
   {
     "Year": "1st Year",
@@ -130,5 +130,125 @@
     "Subject": "Principles of Economics",
     "Numeric Grade": 18,
     "ECTS Grade": "A"
+  },
+  {
+    "Year": "3rd Year",
+    "Subject": "Concurrent and Parallel Programming",
+    "Numeric Grade": 12,
+    "ECTS Grade": "C"
+  },
+  {
+    "Year": "3rd Year",
+    "Subject": "Visualization and Human-Machine Interaction",
+    "Numeric Grade": 15,
+    "ECTS Grade": "B"
+  },
+  {
+    "Year": "3rd Year",
+    "Subject": "Human Resources and Team Management",
+    "Numeric Grade": 12,
+    "ECTS Grade": "D"
+  },
+  {
+    "Year": "3rd Year",
+    "Subject": "Network Architectures",
+    "Numeric Grade": 16,
+    "ECTS Grade": "B"
+  },
+  {
+    "Year": "3rd Year",
+    "Subject": "Marketing for Technology",
+    "Numeric Grade": 16,
+    "ECTS Grade": "A"
+  },
+  {
+    "Year": "3rd Year",
+    "Subject": "Artificial Intelligence",
+    "Numeric Grade": 17,
+    "ECTS Grade": "B"
+  },
+  {
+    "Year": "3rd Year",
+    "Subject": "Management Control",
+    "Numeric Grade": 14,
+    "ECTS Grade": "C"
+  },
+  {
+    "Year": "3rd Year",
+    "Subject": "Information Systems Security",
+    "Numeric Grade": 18,
+    "ECTS Grade": "A"
+  },
+  {
+    "Year": "3rd Year",
+    "Subject": "Distributed Information Systems Integration Project",
+    "Numeric Grade": 18,
+    "ECTS Grade": "A"
+  },
+  {
+    "Year": "3rd Year",
+    "Subject": "Software Engineering",
+    "Numeric Grade": 18,
+    "ECTS Grade": "A"
+  },
+  {
+    "Year": "4th Year",
+    "Subject": "Management of Information System Projects",
+    "Numeric Grade": 14,
+    "ECTS Grade": "C"
+  },
+  {
+    "Year": "4th Year",
+    "Subject": "Operations and Supply Chain Management",
+    "Numeric Grade": 16,
+    "ECTS Grade": "A"
+  },
+  {
+    "Year": "4th Year",
+    "Subject": "Data Warehouse and Business Intelligence Systems",
+    "Numeric Grade": 16,
+    "ECTS Grade": "B"
+  },
+  {
+    "Year": "4th Year",
+    "Subject": "Web Interfaces for Data Management",
+    "Numeric Grade": 17,
+    "ECTS Grade": "B"
+  },
+  {
+    "Year": "4th Year",
+    "Subject": "Conception and Viability of Technology-Based Project",
+    "Numeric Grade": 19,
+    "ECTS Grade": "A"
+  },
+  {
+    "Year": "4th Year",
+    "Subject": "Information Systems Architecture and Management",
+    "Numeric Grade": "-",
+    "ECTS Grade": "-"
+  },
+    {
+    "Year": "4th Year",
+    "Subject": "Knowledge Discovery and Extraction From Data",
+    "Numeric Grade": "-",
+    "ECTS Grade": "-"
+  },
+  {
+    "Year": "4th Year",
+    "Subject": "Development of Technology-Based Project",
+    "Numeric Grade": "-",
+    "ECTS Grade": "-"
+  },
+  {
+    "Year": "4th Year",
+    "Subject": "Organizational Strategy",
+    "Numeric Grade": "-",
+    "ECTS Grade": "-"
+  },
+  {
+    "Year": "4th Year",
+    "Subject": "Entrepreneurship and Innovation IV",
+    "Numeric Grade": "-",
+    "ECTS Grade": "-"
   }
 ]

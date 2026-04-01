@@ -63,7 +63,11 @@ document.addEventListener("DOMContentLoaded", function () {
   loadContent("static/projects/DB/musisys.html", "musisys");
   loadContent("education.html", "education");
   loadContent("certifications.html", "certifications");
+  loadContent("awards.html", "awards");
   loadContent("static/projects/UMA/uma.html", "uma");
+  loadContent("static/projects/Assessments/candidates.html", "candidates");
+  loadContent("static/projects/Assessments/compliances.html", "compliances");
+  loadContent("static/projects/Recommerce/recom.html", "recom");
   loadContent("skills.html", "skills");
   loadContent("static/projects/DIMA/fenix.html", "fenix");
   loadGallery("static/projects/DIMA/fenix.json", "fenix-gallery");
